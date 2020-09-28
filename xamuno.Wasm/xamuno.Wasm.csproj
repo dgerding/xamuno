@@ -17,7 +17,7 @@
     <Content Include="..\xamuno.UWP\*.png" Link="%(FileName)%(Extension)" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="WasmCSS\*.css" />
+    <!--<EmbeddedResource Include="WasmCSS\*.css" />-->
     <EmbeddedResource Include="WasmScripts\*.js" />
   </ItemGroup>
   <ItemGroup>
